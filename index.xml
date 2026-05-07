@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>我的網站</title>
+    <title>王劭加的部落格</title>
     <link>https://example.org/</link>
-    <description>Recent content on 我的網站</description>
+    <description>Recent content on 王劭加的部落格</description>
     <generator>Hugo</generator>
     <language>zh-TW</language>
     <lastBuildDate>Wed, 06 May 2026 13:31:33 +0800</lastBuildDate>
@@ -14,6 +14,13 @@
       <pubDate>Wed, 06 May 2026 13:31:33 +0800</pubDate>
       <guid>https://example.org/posts/helloworld/</guid>
       <description>&lt;p&gt;hello&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://example.org/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/page/about/</guid>
+      <description>&lt;h2 id=&#34;自我介紹&#34;&gt;自我介紹&lt;/h2&gt;&#xA;&lt;p&gt;王劭加&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;學校：臺北市立士林高商　資料處理科&lt;/li&gt;&#xA;&lt;li&gt;專長：PowerPoint／Word／Excel／Python&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;專業技能證照&#34;&gt;專業技能證照&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;中華民國技術士證 - 電腦軟體應用乙級&lt;/li&gt;&#xA;&lt;li&gt;中華民國技術士證 - 電腦軟體應用丙級&lt;/li&gt;&#xA;&lt;li&gt;TQC Word 2016 - 專業級&lt;/li&gt;&#xA;&lt;li&gt;TQC Power point 2016 - 專業級&lt;/li&gt;&#xA;&lt;li&gt;TQC 英文輸入 - 進階級&lt;/li&gt;&#xA;&lt;li&gt;TQC+基礎程式語言 Python 3&lt;/li&gt;&#xA;&lt;li&gt;TQC+基礎創意App程式設計&lt;/li&gt;&#xA;&lt;li&gt;(EEC)企業電子化資安管理維運師&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;競賽與獲獎&#34;&gt;競賽與獲獎&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;校內專題競賽 - 第三名&lt;/li&gt;&#xA;&lt;li&gt;校內專題競賽 - 人氣獎&lt;/li&gt;&#xA;&lt;li&gt;全國高中職學生專題製作競賽 - 佳作&lt;/li&gt;&#xA;&lt;li&gt;台中科技大學全國高中職專題競賽 - 參賽&lt;/li&gt;&#xA;&lt;li&gt;Cool English 普技高口說比賽 - 口說達人獎&lt;/li&gt;&#xA;&lt;li&gt;全國高級中等學校小論文寫作比賽 - 優等&lt;/li&gt;&#xA;&lt;li&gt;校內班際桌球 - 冠軍&lt;/li&gt;&#xA;&lt;li&gt;校內班際籃球 - 殿軍&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
   </channel>
 </rss>
